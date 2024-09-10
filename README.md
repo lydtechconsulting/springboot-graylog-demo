@@ -2,6 +2,11 @@
 
 Demonstrating sending logs from a Spring Boot application to Graylog.
 
+This repo accompanies the following series of articles on Graylog:
+
+- [Application Logging & Alerting With Graylog (1 of 2): Introduction](https://www.lydtechconsulting.com/blog-graylog-demo-pt1.html): An overview of application logging and alerting with Graylog. 
+- [Application Logging & Alerting With Graylog (2 of 2): Spring Boot Demo](https://www.lydtechconsulting.com/blog-graylog-demo-pt2.html): Demonstrating application logging and alerting with Graylog using a Spring Boot application. 
+
 ## Graylog Demo
 
 ### Spring Boot Application
